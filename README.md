@@ -4,6 +4,6 @@ Code Using Diferent programming languages
 Preferred:
                     C
                     C++
-                    Java  
+                    Java
                     Python
   
